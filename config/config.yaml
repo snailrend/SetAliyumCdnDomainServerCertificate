@@ -1,0 +1,6 @@
+accessKeyId: ACCESS_KEY_ID
+accessKeySecret: ACCESS_KEY_SECRET
+domainName: domainName
+certName: certName
+privateKeyPath: privateKeyPath
+publicKeyPath: publicKeyPath
